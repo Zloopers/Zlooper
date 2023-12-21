@@ -1,0 +1,102 @@
+@font-face {
+  font-family: 'SteinAntik';
+  src: url(SteinAntik.ttf);
+}
+
+
+@font-face {
+  font-family: 'ancienthellenic';
+  src: url(ancienthellenic-webfont.ttf);
+}
+
+
+
+
+
+html {
+  box-sizing: border-box;
+  font-size: 15px;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 0.875rem;
+  background-color: #0e0e0e;
+  background-image: url(../assets/images/background-texture.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+
+
+h1{
+  margin: auto;
+  font-family: ancienthellenic;
+  width: 50%;
+  text-align: center;
+  font-size: 2rem;
+}
+
+
+@import url('../css2');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'SteinAntik', cursive;
+    background-color: #090808;
+}
+
+a {
+    display: inline-block;
+    width: 55px;
+    height: 21px;
+    background-image: url(http://platform.twitter.com/widgets/images/tweet.dfbf1dd98bad9f5b5addd80494650dca.png);
+    background-position: 0 0;
+  }
+a:hover {
+  background-position: 0 -21px;
+}
+
+.card{
+    width: 750px;
+    height: 550px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 50px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.card img{
+    width: 380px;
+    height: 380px;
+    border-radius: 2%;
+    margin: 5px;
+}
+
+.card .details{
+    margin: 10px;
+}
+
+.card .details h2{
+    font-weight: 600;
+}
+
+.card .details p{
+    text-transform: uppercase;
+    font-weight: 300;
+}

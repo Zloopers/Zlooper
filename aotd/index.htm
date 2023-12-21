@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>TheLostApes // AOTD</title>
+  <link href='../css?family=Raleway:200,400,800' rel='stylesheet' type='text/css'><link rel="stylesheet" href="../ajax/libs/normalize/5.0.0/normalize.min.css">
+  <link rel='stylesheet' href='../ionicons/2.0.1/css/ionicons.min.css'><link rel="stylesheet" href="style.css">
+
+</head>
+<!-- partial:index.partial.html -->
+<div id="large-header" class="large-header">
+  <p style="text-align:center;"><img src="../assets/images/logo.png" alt="Logo" width="40%"></p>
+    <h1 class="sub-title"><span class="thin">Ape Of The Day</span></h1>
+
+    <div class="card">
+            <img id="ape_image" src="../assets/images/spinner.gif" alt="Image">
+            <div class="details">
+                <h2 id="a_name"></h2>
+                <p id="a_desc"></p>
+            </div>
+            <p id="info"></p>
+
+            <script type="text/javascript">
+            var myHeaders = new Headers();
+            var url_string = window.location.href
+            var url = new URL(url_string);
+            var wallet_address = url.searchParams.get("address");
+            myHeaders.append('Content-Type', 'image/jpeg');
+            console.log('Fetching API');
+            fetch('https://thelostapes.herokuapp.com/aotd', {mode:'cors'}).then(function(response) {
+              return response.json().then(function(json) {
+                ape_name = json['ape_name'];
+                ape_description = json['ape_description'];
+                ape_img = json['img'],
+                document.getElementById("a_name").innerHTML = ape_name;
+                document.getElementById("a_desc").innerHTML = ape_description;
+                document.getElementById("a_desc").innerHTML = ape_description;
+                document.getElementById("ape_image").src=ape_img;
+              });
+            });
+            </script>
+
+            <a href="https://twitter.com/intent/tweet?screen_name=TheLostApesNFT&text=Check out the Ape Of The Day! I've just found a whitelist code - 390879  https://thelostapes.com/aotd/" class="twitter-mention-button" data-show-count="false">Tweet @TheLostApesNFT</a><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+
+
+
+
+
+
+</div>
+
+
+
+
+
+<!-- partial -->
+
+
+</html>

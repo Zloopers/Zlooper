@@ -1,0 +1,21 @@
+﻿@font-face {
+  font-family: 'Red Rose';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/redrose/v13/QdVISTYiLBjouPgEUajvsfWwDtc3MH8y8_sDcg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Red Rose';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/redrose/v13/QdVISTYiLBjouPgEUajvsfWwDtc3MH8yrfsDcg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Red Rose';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/redrose/v13/QdVISTYiLBjouPgEUajvsfWwDtc3MH8yc_wDcg.ttf) format('truetype');
+}

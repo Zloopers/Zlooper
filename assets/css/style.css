@@ -1,0 +1,544 @@
+/* Default CSS */
+html,
+body,
+div,
+span,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+abbr,
+address,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+samp,
+small,
+strong,
+sub,
+sup,
+var,
+b,
+i,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section,
+summary,
+time,
+mark,
+audio,
+span,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  background: transparent;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+button {
+  outline: none !important;
+}
+
+input {
+  outline: none !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+input,
+button,
+textarea,
+select {
+  outline: none;
+}
+
+button:focus,
+button:focus,
+.btn:focus,
+.btn:focus {
+  outline: none;
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+a {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+/* ===================================================
+// Css Styling
+// =================================================== */
+/* Universal styles */
+@font-face {
+  font-family: "Ancienthellenic";
+  src: url("../fonts/ancienthellenic/ancienthellenic-webfont.ttf");
+}
+
+@font-face {
+  font-family: "Monkey Treasure";
+  src: url("../fonts/monkey-treasure/MonkeyTreasure.otf");
+}
+
+
+@font-face {
+  font-family: "SteinAntik";
+  src: url("../fonts/SteinAntik/SteinAntik.ttf");
+}
+
+:root {
+  /* colors */
+  --light-cream: #161718;
+  --grey-200: #000000;
+  --text: #020202;
+  --brown: #050505b2;
+  /* fonts */
+  --font-family-ancienthellenic: "Ancienthellenic", cursive;
+  --font-family-monkey-treasure: "Monkey Treasure", cursive;
+  --font-family-SteinAntik: "SteinAntik", cursive;
+}
+
+body {
+  font-family: var(--font-family-SteinAntik, cursive);
+  font-size: 0.875rem;
+  color: var(--text, #6d5b8b);
+}
+
+.wrapper {
+  background-color: var(--light-cream, #020202);
+  background-image: url("../images/background-texture.jpg");
+  background-position: center top;
+  position: relative;
+  overflow-x: hidden;
+}
+
+.wrapper::before {
+  content: "";
+  background-image: url("../images/gun.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 12rem;
+  left: 0;
+  -webkit-transform: translateX(-10%);
+  -ms-transform: translateX(-10%);
+  transform: translateX(-10%);
+  height: 8rem;
+  width: 8rem;
+}
+
+.wrapper::after {
+  content: "";
+  background-image: url("../images/coins.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 8rem;
+  right: 0;
+  -webkit-transform: translateX(60%);
+  -ms-transform: translateX(60%);
+  transform: translateX(60%);
+  height: 8rem;
+  width: 8rem;
+}
+
+.bg-holder {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.container {
+  position: relative;
+  z-index: 1;
+}
+
+section {
+  position: relative;
+  padding: 3rem 0;
+}
+
+.row {
+  position: relative;
+  z-index: inherit;
+}
+
+/* Header main */
+.header-main .navigation-bar {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 68px 1fr;
+  grid-template-columns: 1fr 68px 1fr;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: 1rem 0;
+}
+
+.header-main .navbar__nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.header-main .brand {
+  -ms-grid-column-align: center;
+  justify-self: center;
+}
+
+.brand .logo {
+  width: 48px;
+}
+
+.header-main .nav-link {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  text-transform: uppercase;
+  padding: 0.25rem 0.15rem;
+  color: var(--black, #161716b2);
+  text-shadow: 0.125rem 0.125rem 0.125rem var(--red-200, #faf8f8);
+  font-family: var(--font-family-ancienthellenic, cursive);
+}
+
+/* Hero */
+.hero {
+  padding: 1rem 0;
+}
+
+/* Description */
+.description {
+  padding: 0 0 5rem;
+}
+
+.description__text {
+  font-size: 0.875rem;
+  color: var(--text, #3fc10c);
+  text-align: center;
+  margin-bottom: 1.5rem;
+  position: relative;
+}
+
+.description__text.with-compass::before {
+  content: "";
+  background-image: url("../images/compass-1.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: block;
+  position: absolute;
+  top: 3rem;
+  left: 0;
+  z-index: -1;
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+  height: 20rem;
+  width: 20rem;
+  opacity: 0.25;
+}
+
+/* NFTs */
+.nft-goods {
+  padding: 5rem 0;
+}
+
+/* Roadmap */
+.roadmap {
+  padding-top: 5rem;
+}
+
+.section__title {
+  color: var(--brown, #5c2c1cb2);
+  font-size: 2rem;
+  text-transform: uppercase;
+  position: relative;
+  text-align: center;
+  margin-bottom: 7rem;
+  font-family: var(--font-family-ancienthellenic, cursive);
+}
+
+.roadmap .section__title::before {
+  content: "";
+  background-image: url("../images/rum.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 3rem;
+  height: 7rem;
+  margin-right: 15rem;
+  display: inline-block;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.section-header .title {
+  font-size: 0.875rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.section-header .title::before,
+.section-header .title::after {
+  width: 15rem;
+  height: 5rem;
+}
+
+.map-1-header .title::before {
+  content: "";
+  background-image: url("../images/note.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.map {
+  position: relative;
+  height: 116px;
+}
+
+.map .map-img {
+  height: 100%;
+  width: 100%;
+  -o-object-fit: contain;
+  object-fit: contain;
+  -o-object-position: center;
+  object-position: center;
+}
+
+.map-2-header .title {
+  text-align: right;
+}
+
+.map-2-header .title::after {
+  content: "";
+  background-image: url("../images/gold-coins.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.map-2 {
+  /* margin-top: 2rem; */
+  /* transform: translateX(4rem); */
+  padding-top: 1rem;
+}
+
+.map-3-header .title::before {
+  content: "";
+  background-image: url("../images/gold-cup.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.map-3 {
+  /* transform: translateX(-2rem); */
+}
+
+.map-4-header .title {
+  text-align: right;
+}
+
+.map-4-header .title::after {
+  content: "";
+  background-image: url("../images/gold-bars.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.map-4 {
+  /* transform: translateX(4rem); */
+  /* margin-top: -3rem; */
+}
+
+.map-5-header {
+  /* padding-left: 7rem; */
+}
+
+.map-5-header .title::before {
+  content: "";
+  background-image: url("../images/bag-of-golds.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.map-5 {
+  /* transform: translateX(4rem); */
+  /* margin-top: -1rem; */
+}
+
+.map-6-header .title {
+  text-align: right;
+}
+
+.map-6-header .title::after {
+  content: "";
+  background-image: url("../images/gold-chest.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+/* Team */
+.team {
+  padding-top: 0rem;
+}
+
+.team .knife {
+  position: absolute;
+  top: 0;
+  left: 0;
+  -webkit-transform-origin: center;
+  -ms-transform-origin: center;
+  transform-origin: center;
+  -webkit-transform: rotate(-55deg) translateX(-65%);
+  -ms-transform: rotate(-55deg) translateX(-65%);
+  transform: rotate(-55deg) translateX(-65%);
+  width: 186px;
+}
+
+
+
+.nft-author .avatar {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.nft-author .avatar img {
+  border-radius: 50%;
+}
+
+.nft-author .nft-author__name {
+  font-size: 2.375rem;
+  text-align: center;
+  line-height: 2.25rem;
+  text-transform: uppercase;
+  font-family: var(--font-family-ancienthellenic, cursive);
+  color: var(--brown, #5c2c1cb2);
+  margin-bottom: 1.25rem;
+}
+
+.nft-author .d-flex {
+  margin-bottom: 1rem;
+}
+
+.nft-author .tag {
+  font-size: 1rem;
+}
+
+/* Faqs */
+.faq-group {
+  -webkit-transform: rotate(-15deg);
+  -ms-transform: rotate(-15deg);
+  transform: rotate(-15deg);
+  margin-bottom: 2rem;
+}
+
+.faq-group .faq__title {
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  font-family: var(--font-family-ancienthellenic, cursive);
+  color: var(--brown, #5c2c1cb2);
+}
+
+.faq-group.three,
+.faq-group.four {
+  text-align: right;
+}
+
+/* Footer */
+.footer-copyright .footer__logo {
+  margin-bottom: 5rem;
+}
+
+.footer-copyright .social-media {
+  margin-bottom: 7rem;
+}
+
+.social-media .icon img {
+  width: 48px;
+  height: auto;
+}

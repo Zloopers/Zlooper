@@ -1,0 +1,308 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css
+File Name: C:\Downloaded Web Sites\thelostapes.com\ajax\libs\normalize\5.0.0\normalize.min.css
+Content Type: text/css
+
+Uri: https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css
+File Name: C:\Downloaded Web Sites\thelostapes.com\ionicons\2.0.1\css\ionicons.min.css
+Content Type: text/css
+
+Uri: https://code.ionicframework.com/ionicons/2.0.1/fonts/ionicons.eot?v=2.0.1
+File Name: C:\Downloaded Web Sites\thelostapes.com\ionicons\2.0.1\fonts\ionicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://code.ionicframework.com/ionicons/2.0.1/fonts/ionicons.svg?v=2.0.1
+File Name: C:\Downloaded Web Sites\thelostapes.com\ionicons\2.0.1\fonts\ionicons.svg
+Content Type: image/svg+xml
+
+Uri: https://code.ionicframework.com/ionicons/2.0.1/fonts/ionicons.ttf?v=2.0.1
+File Name: C:\Downloaded Web Sites\thelostapes.com\ionicons\2.0.1\fonts\ionicons.ttf
+Content Type: font/ttf
+
+Uri: https://code.ionicframework.com/ionicons/2.0.1/fonts/ionicons.woff?v=2.0.1
+File Name: C:\Downloaded Web Sites\thelostapes.com\ionicons\2.0.1\fonts\ionicons.woff
+Content Type: font/woff
+
+Uri: https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;600&display=swap
+File Name: C:\Downloaded Web Sites\thelostapes.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Raleway:200,400,800
+File Name: C:\Downloaded Web Sites\thelostapes.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/raleway/v27/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\thelostapes.com\s\raleway\v27\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v27/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\thelostapes.com\s\raleway\v27\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v27/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\thelostapes.com\s\raleway\v27\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redrose/v13/QdVISTYiLBjouPgEUajvsfWwDtc3MH8y8_sDcg.ttf
+File Name: C:\Downloaded Web Sites\thelostapes.com\s\redrose\v13\QdVISTYiLBjouPgEUajvsfWwDtc3MH8y8_sDcg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redrose/v13/QdVISTYiLBjouPgEUajvsfWwDtc3MH8yc_wDcg.ttf
+File Name: C:\Downloaded Web Sites\thelostapes.com\s\redrose\v13\QdVISTYiLBjouPgEUajvsfWwDtc3MH8yc_wDcg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redrose/v13/QdVISTYiLBjouPgEUajvsfWwDtc3MH8yrfsDcg.ttf
+File Name: C:\Downloaded Web Sites\thelostapes.com\s\redrose\v13\QdVISTYiLBjouPgEUajvsfWwDtc3MH8yrfsDcg.ttf
+Content Type: font/ttf
+
+Uri: https://thelostapes.com/
+File Name: C:\Downloaded Web Sites\thelostapes.com\index.htm
+Content Type: text/html
+
+Uri: https://thelostapes.com/aotd/
+File Name: C:\Downloaded Web Sites\thelostapes.com\aotd\index.htm
+Content Type: text/html
+
+Uri: https://thelostapes.com/aotd/ancienthellenic-webfont.ttf
+File Name: C:\Downloaded Web Sites\thelostapes.com\aotd\ancienthellenic-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://thelostapes.com/aotd/SteinAntik.ttf
+File Name: C:\Downloaded Web Sites\thelostapes.com\aotd\SteinAntik.ttf
+Content Type: application/font-sfnt
+
+Uri: https://thelostapes.com/aotd/style.css
+File Name: C:\Downloaded Web Sites\thelostapes.com\aotd\style.css
+Content Type: text/css
+
+Uri: https://thelostapes.com/assets/css/responsive.css
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://thelostapes.com/assets/css/style.css
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\css\style.css
+Content Type: text/css
+
+Uri: https://thelostapes.com/assets/fonts/ancienthellenic/ancienthellenic-webfont.ttf
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\fonts\ancienthellenic\ancienthellenic-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://thelostapes.com/assets/fonts/monkey-treasure/MonkeyTreasure.otf
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\fonts\monkey-treasure\MonkeyTreasure.otf
+Content Type: application/vnd.oasis.opendocument.formula-template
+
+Uri: https://thelostapes.com/assets/fonts/SteinAntik/SteinAntik.ttf
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\fonts\SteinAntik\SteinAntik.ttf
+Content Type: application/font-sfnt
+
+Uri: https://thelostapes.com/assets/images/1ee74e5b4292f9dbc6801ffca3ed6ebd.png
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\1ee74e5b4292f9dbc6801ffca3ed6ebd.png
+Content Type: image/png
+
+Uri: https://thelostapes.com/assets/images/background-texture.jpg
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\background-texture.jpg
+Content Type: image/jpeg
+
+Uri: https://thelostapes.com/assets/images/bag-of-golds.svg
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\bag-of-golds.svg
+Content Type: image/svg+xml
+
+Uri: https://thelostapes.com/assets/images/bg-1.png
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\bg-1.png
+Content Type: image/png
+
+Uri: https://thelostapes.com/assets/images/coins.png
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\coins.png
+Content Type: image/png
+
+Uri: https://thelostapes.com/assets/images/compass-1.png
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\compass-1.png
+Content Type: image/png
+
+Uri: https://thelostapes.com/assets/images/compass.png
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\compass.png
+Content Type: image/png
+
+Uri: https://thelostapes.com/assets/images/discord.svg
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\discord.svg
+Content Type: image/svg+xml
+
+Uri: https://thelostapes.com/assets/images/faq-bg.svg
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\faq-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://thelostapes.com/assets/images/footer-bg.png
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\footer-bg.png
+Content Type: image/png
+
+Uri: https://thelostapes.com/assets/images/gif.gif
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\gif.gif
+Content Type: image/gif
+
+Uri: https://thelostapes.com/assets/images/gold-bars.svg
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\gold-bars.svg
+Content Type: image/svg+xml
+
+Uri: https://thelostapes.com/assets/images/gold-chest.svg
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\gold-chest.svg
+Content Type: image/svg+xml
+
+Uri: https://thelostapes.com/assets/images/gold-coins.svg
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\gold-coins.svg
+Content Type: image/svg+xml
+
+Uri: https://thelostapes.com/assets/images/gold-cup.svg
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\gold-cup.svg
+Content Type: image/svg+xml
+
+Uri: https://thelostapes.com/assets/images/gun.png
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\gun.png
+Content Type: image/png
+
+Uri: https://thelostapes.com/assets/images/humer.png
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\humer.png
+Content Type: image/png
+
+Uri: https://thelostapes.com/assets/images/logo.png
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://thelostapes.com/assets/images/map-1-1.svg
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\map-1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://thelostapes.com/assets/images/map-2.svg
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\map-2.svg
+Content Type: image/svg+xml
+
+Uri: https://thelostapes.com/assets/images/map-3.svg
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\map-3.svg
+Content Type: image/svg+xml
+
+Uri: https://thelostapes.com/assets/images/map-4.png
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\map-4.png
+Content Type: image/png
+
+Uri: https://thelostapes.com/assets/images/map-5.svg
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\map-5.svg
+Content Type: image/svg+xml
+
+Uri: https://thelostapes.com/assets/images/note.svg
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\note.svg
+Content Type: image/svg+xml
+
+Uri: https://thelostapes.com/assets/images/nothing.png
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\nothing.png
+Content Type: image/png
+
+Uri: https://thelostapes.com/assets/images/pirate.png
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\pirate.png
+Content Type: image/png
+
+Uri: https://thelostapes.com/assets/images/rum.png
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\rum.png
+Content Type: image/png
+
+Uri: https://thelostapes.com/assets/images/skull-circle.svg
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\skull-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://thelostapes.com/assets/images/skull.png
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\skull.png
+Content Type: image/png
+
+Uri: https://thelostapes.com/assets/images/soldier.png
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\soldier.png
+Content Type: image/png
+
+Uri: https://thelostapes.com/assets/images/spinner.gif
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\spinner.gif
+Content Type: image/gif
+
+Uri: https://thelostapes.com/assets/images/twitter.svg
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://thelostapes.com/assets/images/verified.png
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\images\verified.png
+Content Type: image/png
+
+Uri: https://thelostapes.com/assets/js/custom.js
+File Name: C:\Downloaded Web Sites\thelostapes.com\assets\js\custom.js
+Content Type: application/javascript
+
+Uri: https://thelostapes.com/vendor/bootstrap/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\thelostapes.com\vendor\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://thelostapes.com/vendor/bootstrap/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\thelostapes.com\vendor\bootstrap\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://thelostapes.com/vendor/fontawesome/css/all.min.css
+File Name: C:\Downloaded Web Sites\thelostapes.com\vendor\fontawesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://thelostapes.com/vendor/fontawesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\thelostapes.com\vendor\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: application/font-sfnt
+
+Uri: https://thelostapes.com/vendor/fontawesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\thelostapes.com\vendor\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: 
+
+Uri: https://thelostapes.com/vendor/fontawesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\thelostapes.com\vendor\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: application/font-sfnt
+
+Uri: https://thelostapes.com/vendor/fontawesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\thelostapes.com\vendor\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: 
+
+Uri: https://thelostapes.com/vendor/fontawesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\thelostapes.com\vendor\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: application/font-sfnt
+
+Uri: https://thelostapes.com/vendor/fontawesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\thelostapes.com\vendor\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: 
+
+Uri: https://thelostapes.com/vendor/fontawesome/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\thelostapes.com\vendor\fontawesome\webfonts\fa-v4compatibility.ttf
+Content Type: application/font-sfnt
+
+Uri: https://thelostapes.com/vendor/fontawesome/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\thelostapes.com\vendor\fontawesome\webfonts\fa-v4compatibility.woff2
+Content Type: 
+
+Uri: https://thelostapes.com/vendor/jQuery/jquery.min.js
+File Name: C:\Downloaded Web Sites\thelostapes.com\vendor\jQuery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://thelostapes.com/vendor/modernizr/modernizr-3.11.2.min.js
+File Name: C:\Downloaded Web Sites\thelostapes.com\vendor\modernizr\modernizr-3.11.2.min.js
+Content Type: application/javascript
+
+Uri: https://thelostapes.com/vendor/normalize-css/normalize.css
+File Name: C:\Downloaded Web Sites\thelostapes.com\vendor\normalize-css\normalize.css
+Content Type: text/css
+
+Uri: https://thelostapes.com/vendor/owl-carousel/assets/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\thelostapes.com\vendor\owl-carousel\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://thelostapes.com/vendor/owl-carousel/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\thelostapes.com\vendor\owl-carousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://thelostapes.com/whitepaper.pdf
+File Name: C:\Downloaded Web Sites\thelostapes.com\whitepaper.pdf
+Content Type: application/pdf
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.css
+File Name: C:\Downloaded Web Sites\thelostapes.com\aos@2.3.1\dist\aos.css
+Content Type: text/css
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.js
+File Name: C:\Downloaded Web Sites\thelostapes.com\aos@2.3.1\dist\aos.js
+Content Type: application/javascript
+
